@@ -1,0 +1,45 @@
+* {
+	font-family: 'Indie Flower', cursive;
+	color: red;
+}
+
+h1 {
+	color: red;
+	font-size: 300px
+}
+
+a{
+	color:black;}
+
+.row {
+	text-align: center;
+	margin: auto;
+	font-size: 26px
+}
+
+ input {
+      border:5px outset;
+      padding:20px;
+      font-size:18px;
+      margin-bottom: 60px;
+    }
+ 
+ input[type="submit"] {
+      background:red;
+      color:white;
+    }
+
+img {
+
+	height: 150px;
+    position: center;
+    margin: 20px 40px 40px 40px;
+    border-radius: 12px;
+    float:inherit;
+    }
+
+
+
+.col-sm-3 {
+	position:relative;
+}
