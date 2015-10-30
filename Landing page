@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+
+<head>
+    <link href='dist/css/bootstrap.css'rel='stylesheet'>
+    <link rel = "stylesheet" type = "text/css" href = "css.css">
+    <link href='https://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
+    <h1 class"text-center">BooST.</h1>
+
+</head>
+
+<body>
+
+    
+   
+  
+    <div class = "container">
+      
+        <div class='row'>
+            
+            
+            
+                <input type="email" placeholder="Share some study juice">
+                <input type="submit" placeholder="share">
+
+  
+  
+          
+    
+  
+  
+
+
+
+        </div>
+
+        <div class='row'>
+            
+
+            <div class='col-sm-3'>
+                <a href="#">Art History</a>
+                <div class="special">
+                    <img src="art_history.png">
+                </div>
+            </div>
+
+    
+            <div class='col-sm-3'>
+                <a href="#">Biology</a>
+                <div class="special">
+                    <img src="biology.png">
+                </div>
+            </div>
+            
+            
+            <div class='col-sm-3'>
+                <a href="#">Chemistry</a>
+                <div class="special">
+                    <img src="chemistry.png">
+                </div>
+            </div>
+            
+
+            <div class='col-sm-3'>
+                <a href="#">Classics</a>
+                <div class="special">
+                    <img src="classics.png">
+                </div>
+            </div>
+
+        </div>
+
+
+
+        <div class='row'>
+                
+                
+            <div class='col-sm-3'>
+               <a href="#">Computer Science</a>
+               <div class="special">
+                    <img src="computer_science.png">     
+                </div>
+            </div>
+
+        
+            <div class='col-sm-3'>
+                <a href="#">Divinity</a>
+                <div class="special">
+                    <img src="divinity.png">   
+                </div>
+            </div>
+                
+                
+            <div class='col-sm-3'>
+                <a href="#">Economics & Finance</a>
+                <div class="special">
+                    <img src="economics.png">
+                </div>
+            </div>
+                
+
+            <div class='col-sm-3'>
+                <a href="#">English</a>
+                <div class="special">
+                    <img src="english.png">
+                </div>
+            </div>
+
+
+        </div>
+
+
+
+        
+        <div class='row'>
+                
+
+            <div class='col-sm-3'>
+                <a href="#">Geography & SD</a>
+                <div class="special">
+                    <img src="geography_sd.png">    
+                </div>
+            </div>
+
+        
+            <div class='col-sm-3'>
+                <a href="#">History</a>
+                <div class="special">
+                    <img src="history.png">   
+                </div>
+            </div>
+                
+                
+            <div class='col-sm-3'>
+                <a href="#">IR</a>
+                <div class="special">
+                    <img src="ir.png">    
+                </div>
+            </div>
+                
+
+            <div class='col-sm-3'>
+               <a href="#">Management</a>
+                <div class="special">
+                    <img src="management.png">      
+                </div>
+            </div>
+            
+
+        </div>
+                
+
+          
+
+        <div class='row'>
+                
+
+            <div class='col-sm-3'>
+                <a href="#">Maths & Stats</a>
+                <div class="special">
+                    <img src="math.png">    
+                </div>
+            </div>
+
+        
+            <div class='col-sm-3'>
+                <a href="#">Medicine</a>
+                <div class="special">
+                    <img src="medecine.png">  
+                </div>
+            </div>
+                
+                
+            <div class='col-sm-3'>
+                <a href="#">Modern Languages</a>
+                <div class="special">
+                    <img src="modern_languages.png">    
+                </div>
+            </div>
+                
+
+            <div class='col-sm-3'>
+                <a href="#">Philosophy</a>
+                <div class="special">
+                    <img src="philosophy.png">    
+                </div>
+            </div>
+            
+
+        </div>
+
+
+        
+        
+        <div class='row'>
+                  
+
+            <div class='col-sm-3'>
+                <a href="#">Social Anthropology</a>
+                <div class="special">
+                    <img src="social_anthropology.png">    
+                </div>
+            </div>
+
+        
+            <div class='col-sm-3'>
+                <a href="#">Film Studies</a>
+                <div class="special">
+                    <img src="film_studies.png">    
+                </div>
+            </div>
+                
+                
+            <div class='col-sm-3'>
+                <a href="#">Physics</a>
+                <div class="special">
+                    <img src="physics.png">    
+                </div>
+            </div>
+                
+
+            <div class='col-sm-3'>
+                <a href="#">Psychology</a>
+                <div class="special">
+                    <img src="psychology.png">     
+                </div>
+            </div>
+            
+
+        </div>          
+
+                
+                
+               
+      
+    </div>
+  
+
+  
+</body>
+</html>
