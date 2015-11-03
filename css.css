@@ -30,6 +30,11 @@ a{
 	font-size: 26px
 }
 
+.naviation {
+	font-size:10px;
+	color: red;
+}
+
  input {
       border:5px outset;
       padding:20px;
